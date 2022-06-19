@@ -1,0 +1,13 @@
+{
+  "name": "wildcard-mini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victoryforphil/wildcard-mini.git",
+  "author": "Alex Carter <victoryforphil@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nanoid": "^4.0.0",
+    "socket.io": "^4.5.1"
+  }
+}
